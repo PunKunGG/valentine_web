@@ -2,6 +2,8 @@
 
 > "There are 10 types of people in the world: Those who understand binary, and those who know you are the one."
 
+![love](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemI4cmh2a3dyN2M4MGp3cjRxOTM2N2ExanUxNHI3eHkzZ3BuYXE4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qHVDPr0PL1WNINGkUU/giphy.gif)
+
 ## Project Structure
 
 This isn't just a website; it's a repository of love.
