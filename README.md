@@ -15,7 +15,7 @@ This isn't just a website; it's a repository of love.
 
 ## Deployment
 
-No complex build steps required. Just open `index.html` to deploy love to localhost.
+[Click This Link!!](https://punkungg.github.io/valentine_web/)
 
 ## Known Issues
 
